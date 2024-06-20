@@ -16,7 +16,7 @@ y editor de texto
 o tambien podria habrir el archivo .out
 
 ## Instrucciones de Instalación
-Para copilar y ejecutar  el codigo es necesario abrir el repocitorio copiar el codigo y pegarlo en su computador
+Para copilar y ejecutar  el codigo es necesario abrir el repositorio copiar el codigo y pegarlo en su computador
 para despues ejecutarlo en el mismo
 ## uso
 -Para el uso efectivo del programa es nesesario despues de ejecutarlo , primero escribibir M si es que quiere ingresar manualmente la latitud y longitud o quiere que sea automatico con los datos geograficos de este lugar
