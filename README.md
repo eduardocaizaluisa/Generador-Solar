@@ -8,14 +8,16 @@ por esa razon se a planteado la  realización de un proyecto  proyecto sobre  un
 
 ## Requisitos
 Para poder ejecutar el programa con exito es necesario:
-,Un codigo en c\n
+,Un codigo en c
 , Un copilador compatible
 , un computador
 ,consola
 y editor de texto 
+o tambien podria habrir el archivo .out
+
 ## Instrucciones de Instalación
 Para copilar y ejecutar  el codigo es necesario abrir el repocitorio copiar el codigo y pegarlo en su computador
 para despues ejecutarlo en el mismo
 ## uso
--Para el uso efectivo del progema es nesesario primero escribibir M si es que quiere ingresar manualmente la latitud y longitud o quiere que sea automatico con los datos geograficos de este lugar
-por medio de la letra (M) que significa manual o (A) que significa automatico
+-Para el uso efectivo del programa es nesesario despues de ejecutarlo , primero escribibir M si es que quiere ingresar manualmente la latitud y longitud o quiere que sea automatico con los datos geograficos de este lugar
+por medio de la letra (M) que significa manual o (A) que significa automatico.
