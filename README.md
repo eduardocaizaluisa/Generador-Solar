@@ -8,7 +8,7 @@ por esa razon se a planteado la  realización de un proyecto  proyecto sobre  un
 
 ## Requisitos
 Para poder ejecutar el programa con exito es necesario:
-,Un codigo en c
+,Un codigo en c\n
 , Un copilador compatible
 , un computador
 ,consola
